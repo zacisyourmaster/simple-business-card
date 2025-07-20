@@ -1,0 +1,50 @@
+body {
+  background-color:rosybrown;
+  font-family: Arial, sans-serif;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.business-card {
+  width: 300px;
+  background-color: lavender;
+  padding: 20px;
+  margin-top: 100px;
+  font-size: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-style: solid;
+  border-color: darkslategrey;
+  border-radius: 5px;
+  box-shadow: 0px 3px 5px black;
+}
+
+.profile-image {
+  max-width: 100%;
+}
+
+.full-name{
+  color: DarkSlateGrey;
+  font-size: 24px;
+}
+
+.designation{
+  color: dimgrey;
+  font-size:18px;
+}
+
+.company{
+  color: grey
+}
+
+.social-media > a{
+  margin-left:10px;
+  margin-right:10px;
+}
